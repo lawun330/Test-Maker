@@ -1,5 +1,5 @@
-# Answer-Questions
-A project to make multiple choice and true/false questions using the _JOptionPane_ class as a GUI. The user can answer and get his scores on the test. This project can be implemented in performing online exams or surveys.
+# Create Questions Dialogs with Java
+This program creates multiple choice and true/false questions using the _JOptionPane_ class as the GUI. The program asks for answers for a user to fill. The final score is returned after answering all questions. This program can be implemented in performing online exams or surveys.
 
 There are four classes in this project.
 - _MultipleChoiceQuestion.java_ is a class file to manage multiple-choice questions.
