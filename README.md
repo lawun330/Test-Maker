@@ -8,4 +8,4 @@ There are four classes in this project.
 - _QuestionDialog.java_ is a button-listener class.
 - _Quiz.java_ will include the main program.
 
-You have to put your questions and answers in the file the _Quiz.java_.
+You have to put your questions and answers in the file _Quiz.java_.
