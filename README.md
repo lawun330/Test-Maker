@@ -1,5 +1,6 @@
-# Create Questions Dialogs with Java
-This program creates <b>multiple choice and True/False questions</b> using the _JOptionPane_ class as the GUI. The program asks for answers for a user to fill. The final score is returned after answering all questions. This program can be implemented in performing online exams or surveys.
+# Test Maker: Popup Question Boxes with Java
+
+This program generates **multiple-choice and True/False question boxes** using Java’s *JOptionPane* class for the GUI. It presents each question in a popup dialog, collects the user’s answers, and displays the final score after all questions have been completed. This tool is ideal for creating simple quiz applications, practice tests, or lightweight surveys.
 
 There are four classes in this project.
 - _MultipleChoiceQuestion.java_ is a class file to manage multiple-choice questions.
