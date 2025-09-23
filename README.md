@@ -1,4 +1,4 @@
-# Test Maker: Popup Question Boxes with Java
+# Quiz Maker: Popup Question Boxes with Java
 
 This program generates **multiple-choice and True/False question boxes** using Java’s *JOptionPane* class for the GUI. It presents each question in a popup dialog, collects the user’s answers, and displays the final score after all questions have been completed. This tool is ideal for creating simple quiz applications, practice tests, or lightweight surveys.
 
